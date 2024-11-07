@@ -5,15 +5,15 @@ The Expense Tracker App is a user-friendly, cross-platform mobile application bu
 ## Features
 
 - Add Expenses and Income: Log every transaction with details like amount, category, and notes.
-- 
+
 - Expense Categories: Customize spending categories like Food, Transport, Bills, and more.
-- 
+  
 - Visual Analytics: View spending patterns through intuitive charts.
-- 
+  
 - Monthly Summaries: Get an overview of income and expenses each month.
-- 
+  
 - Secure Cloud Storage: Store data in Firebase, enabling access from multiple devices.
-- 
+  
 - Authentication: Secure login using Firebase Authentication.
   
 ## Technologies Used
@@ -59,9 +59,9 @@ Add screenshots here to showcase the main screens, such as the dashboard, add ex
 ## 📖 Usage
 
 - Add Transactions: To log an expense or income, tap the "+" button and fill out the required details.
-- 
+  
 - View Insights: Navigate to the analytics tab to see graphical representations of your spending habits.
-- 
+  
 - Monthly Overview: Access the monthly overview section for a quick summary of all transactions in the current month.
   
 ## 🤝 Contributing
