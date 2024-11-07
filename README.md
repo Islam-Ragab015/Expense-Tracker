@@ -69,9 +69,13 @@ Add screenshots here to showcase the main screens, such as the dashboard, add ex
 Contributions are welcome! To contribute:
 
 1- Fork the project.
+
 2- Create a feature branch: git checkout -b feature-name.
+
 3- Commit changes: git commit -m 'Add new feature'.
+
 4- Push to the branch: git push origin feature-name.
+
 5- Open a pull request.
 
 ## ⭐ Support
